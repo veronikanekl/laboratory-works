@@ -1,0 +1,5 @@
+D:\Проектирование и тестирование ПО\Лабы\lab3\lab3\bin\Debug\lab3.exe
+D:\Проектирование и тестирование ПО\Лабы\lab3\lab3\bin\Debug\lab3.pdb
+D:\Проектирование и тестирование ПО\Лабы\lab3\lab3\obj\x86\Debug\lab3.csproj.CoreCompileInputs.cache
+D:\Проектирование и тестирование ПО\Лабы\lab3\lab3\obj\x86\Debug\lab3.exe
+D:\Проектирование и тестирование ПО\Лабы\lab3\lab3\obj\x86\Debug\lab3.pdb
