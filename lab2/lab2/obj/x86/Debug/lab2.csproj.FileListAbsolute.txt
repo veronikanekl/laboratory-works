@@ -1,5 +1,0 @@
-D:\Проектирование и тестирование ПО\Лабы\lab2\lab2\bin\Debug\lab2.exe
-D:\Проектирование и тестирование ПО\Лабы\lab2\lab2\bin\Debug\lab2.pdb
-D:\Проектирование и тестирование ПО\Лабы\lab2\lab2\obj\x86\Debug\lab2.csproj.CoreCompileInputs.cache
-D:\Проектирование и тестирование ПО\Лабы\lab2\lab2\obj\x86\Debug\lab2.exe
-D:\Проектирование и тестирование ПО\Лабы\lab2\lab2\obj\x86\Debug\lab2.pdb
