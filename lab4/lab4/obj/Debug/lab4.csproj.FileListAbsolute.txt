@@ -1,0 +1,7 @@
+C:\Users\Ника\source\repos\lab4\lab4\bin\Debug\lab4.exe.config
+C:\Users\Ника\source\repos\lab4\lab4\bin\Debug\lab4.exe
+C:\Users\Ника\source\repos\lab4\lab4\bin\Debug\lab4.pdb
+C:\Users\Ника\source\repos\lab4\lab4\obj\Debug\lab4.csprojResolveAssemblyReference.cache
+C:\Users\Ника\source\repos\lab4\lab4\obj\Debug\lab4.csproj.CoreCompileInputs.cache
+C:\Users\Ника\source\repos\lab4\lab4\obj\Debug\lab4.exe
+C:\Users\Ника\source\repos\lab4\lab4\obj\Debug\lab4.pdb
