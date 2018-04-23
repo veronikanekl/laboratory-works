@@ -1,0 +1,82 @@
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+
+namespace lab1
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            Console.WriteLine("Введите, пожалуйста, шестизначное число:");
+            string a = Console.ReadLine();
+
+            if (a.Length == 6)
+            {
+                if (a[0] + a[1] + a[2] == a[3] + a[4] + a[5])
+                {
+                    Console.WriteLine("Поздравляем! Ваше число - счастливое :3");
+                }
+                else
+                {
+                    Console.WriteLine("Извините, но ваше число - не счастливое :с");
+                }
+            }
+           
+            Console.ReadKey();  //аналог getch();
+        }
+    }
+}
+
+
+
+------------------
+
+using System;
+
+namespace lab1
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            Console.WriteLine("Введите, пожалуйста, шестизначное число:");
+            string input = Console.ReadLine();
+            int number = int.Parse(input);
+            DigitsExtractor extractror = new DigitsExtractor();
+            int[] firstTreeDigits = extractror.ExctractTreeDigits(number);
+            int[] secondFirstTreeDigits = extractror.ExctractTreeDigits(number/1000);
+            int firstSum = firstTreeDigits[0] + firstTreeDigits[1] + firstTreeDigits[2];
+            int secondSum = secondFirstTreeDigits[0] + secondFirstTreeDigits[1] + secondFirstTreeDigits[2];
+            if(firstSum == secondSum)
+            {
+                Console.WriteLine("Поздравляем! Ваше число - счастливое :3");
+            }
+            else
+            {
+                Console.WriteLine("Извините, но ваше число - не счастливое :с");
+            }
+           
+            Console.ReadKey();  //аналог getch();
+        }
+    }
+}
+______
+namespace lab1
+{
+    public class DigitsExtractor
+    {
+        public int[] ExctractTreeDigits(int number)
+        {
+            int[] result = new int[3];
+            for(int i =0; i < result.Length; i++)
+            {
+                result[i] = number % 10;
+                number /= 10;
+            }
+
+            return result;
+        }
+    }
+}

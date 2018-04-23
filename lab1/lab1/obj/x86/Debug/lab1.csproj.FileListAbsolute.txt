@@ -1,0 +1,6 @@
+D:\Проектирование и тестирование ПО\Лабы\lab1\lab1\bin\Debug\lab1.exe
+D:\Проектирование и тестирование ПО\Лабы\lab1\lab1\bin\Debug\lab1.pdb
+D:\Проектирование и тестирование ПО\Лабы\lab1\lab1\obj\x86\Debug\lab1.csproj.CoreCompileInputs.cache
+D:\Проектирование и тестирование ПО\Лабы\lab1\lab1\obj\x86\Debug\lab1.exe
+D:\Проектирование и тестирование ПО\Лабы\lab1\lab1\obj\x86\Debug\lab1.pdb
+D:\Проектирование и тестирование ПО\Лабы\lab1\lab1\obj\x86\Debug\lab1.csprojResolveAssemblyReference.cache

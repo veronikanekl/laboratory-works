@@ -1,0 +1,4 @@
+c:\users\ника\documents\visual studio 2010\Projects\lab1\lab1\bin\Release\lab1.exe
+c:\users\ника\documents\visual studio 2010\Projects\lab1\lab1\bin\Release\lab1.pdb
+c:\users\ника\documents\visual studio 2010\Projects\lab1\lab1\obj\x86\Release\lab1.exe
+c:\users\ника\documents\visual studio 2010\Projects\lab1\lab1\obj\x86\Release\lab1.pdb
