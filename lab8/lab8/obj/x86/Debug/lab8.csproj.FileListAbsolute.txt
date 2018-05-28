@@ -1,0 +1,4 @@
+c:\users\ника\documents\visual studio 2010\Projects\lab8\lab8\bin\Debug\lab8.exe
+c:\users\ника\documents\visual studio 2010\Projects\lab8\lab8\bin\Debug\lab8.pdb
+c:\users\ника\documents\visual studio 2010\Projects\lab8\lab8\obj\x86\Debug\lab8.exe
+c:\users\ника\documents\visual studio 2010\Projects\lab8\lab8\obj\x86\Debug\lab8.pdb
